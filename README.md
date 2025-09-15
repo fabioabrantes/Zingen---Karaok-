@@ -10,6 +10,8 @@ O projeto foi desenvolvido como parte de um estudo sobre responsividade e desenv
 
 A landing page do Zingen foi criada para ser a porta de entrada de novos usuários, apresentando as principais funcionalidades do aplicativo, os planos disponíveis e incentivando o download. A página é totalmente responsiva, adaptando-se a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
 
+**[Clique aqui para ver o projeto ao vivo](https://fabioabrantes.github.io/Zingen---Karaok-/)**
+
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto foi construído com as seguintes tecnologias:
