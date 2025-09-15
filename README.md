@@ -4,7 +4,6 @@ Este é o repositório da landing page para o Zingen, um aplicativo de karaokê 
 
 O projeto foi desenvolvido como parte de um estudo sobre responsividade e desenvolvimento web moderno, focando em HTML semântico e CSS modular.
 
-![Prévia da página Zingen](https://raw.githubusercontent.com/user/repo/main/preview.jpg) <!-- TODO: Substitua pela URL de uma imagem de prévia do seu projeto -->
 
 ## 🚀 Sobre o Projeto
 
